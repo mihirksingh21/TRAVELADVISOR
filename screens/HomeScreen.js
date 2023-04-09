@@ -2,6 +2,7 @@ import { View, Text, Image, TouchableOpacity} from 'react-native'
 import React, { useLayoutEffect } from 'react'
 import { useNavigation } from '@react-navigation/native'
 import * as Animatable from 'react-native-animatable';
+
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { HeroImage } from '../assets';
 
